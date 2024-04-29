@@ -6,7 +6,9 @@
 
 <h2> :page_with_curl: Certifications:</h2>
 
-  - [CompTIA A+](https://github.com/pmagolan/LABURL)
+  - [CompTIA A+](https://www.credly.com/badges/a4ccf1dc-7d70-46ca-bebb-6c74f3098f40/public_url)
+  - ![comptia-a+-image](https://github.com/pmagolan/pmagolan/assets/106403981/e7a9de74-c726-46dc-9568-ca018dbdcb11)
+
 
 <!--
 <h2>📺 Popular YouTube Videos</h2>
